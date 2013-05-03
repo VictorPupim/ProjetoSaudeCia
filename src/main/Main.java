@@ -150,6 +150,6 @@ public class Main {
 		DeclaracaoAcompanhamento declaracaoAcompanhamento = (DeclaracaoAcompanhamento) dms.pesquisaDocMedico(3);
 		System.out.println(dms.imprimirDocumento(declaracaoAcompanhamento));
 		
-		
+		System.out.println("testando git");
 	}
 }
